@@ -3,5 +3,5 @@ cryptocompare
 GPUtil
 psutil 
 py-cpuinfo 
-python 3.9.7
+
 
