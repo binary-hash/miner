@@ -3,6 +3,5 @@ cryptocompare
 GPUtil
 psutil 
 py-cpuinfo 
-hashlib
 python
 
