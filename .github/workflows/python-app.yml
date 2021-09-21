@@ -26,4 +26,4 @@ jobs:
         if [ -f requirements.txt ]; then pip3 install -r requirements.txt; fi
     - name: Test with pytest
       run: |
-        python3.9 miner.py
+        python3 miner.py
