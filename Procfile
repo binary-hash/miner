@@ -1,1 +1,1 @@
-worker: python3.9 miner/miner.py
+worker: python3 miner.py
